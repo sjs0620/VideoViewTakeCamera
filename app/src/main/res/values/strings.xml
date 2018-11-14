@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VideoViewTakeCamera</string>
+    <string name="textViewTitle">Video View From Gallery</string>
+    <string name="buttonVideo">Video Take camera</string>
+</resources>
